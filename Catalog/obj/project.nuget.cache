@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tuy8/QA5EHKW+0z6ymff+dYGfH+a0g0uL2mH0OyKMZT/3QcEx/OPDdN/SMBUo3aUnJrRedyMD9HjfAahq1Vf8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tijme\\OneDrive\\Bureaublad\\CatalogProject\\CatalogProject\\Catalog\\Catalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tijme\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tijme\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tijme\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\tijme\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\tijme\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\tijme\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
